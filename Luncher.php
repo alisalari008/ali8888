@@ -1,4 +1,4 @@
-<?php
+gram.org/bot'.bot_token.'/');
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
@@ -33,4 +33,4 @@ Telegram Channel: https://telegram.me/PvResan
 
 یا علی خدا قوت
 */
-?>
+https://t.me/alisalari008
